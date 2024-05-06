@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8889}
 
-message: I am the service.
+message: I am the account service.
